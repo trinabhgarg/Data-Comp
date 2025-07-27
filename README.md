@@ -1,1 +1,1 @@
-# Data-Comp
+Three methods used for data compression are Huffman coding, Shannon-fano algorithm and a naive approach.Have proved that the most optimal method for data compression is the Huffman algorithm and for the same, we have tested for three data files.
